@@ -1,0 +1,18 @@
+# IDE
+.idea/
+
+# Python Packaging
+build/
+dist/
+*.egg-info
+MANIFEST.in
+run.bat
+
+# Python
+__pycache__/
+
+# Git
+.gitattributes
+
+# Local
+frozen-requirements.txt
